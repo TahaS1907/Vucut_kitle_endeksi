@@ -1,3 +1,2 @@
-# Vucut_kitle_endeksi
+# Body Mass Index
 
-[Patika](www.patika.dev)
